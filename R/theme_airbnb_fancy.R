@@ -16,8 +16,8 @@ theme_airbnb_fancy <- function(base_size=2.5) {
   color.grid.major = palette[3]
   color.axis.text = palette[6]
   color.axis.title = palette[7]
-  color.title = "#F14000"
-  color.subtitle = "#F14000"
+  color.title = "#252525"
+  color.subtitle = "#252525"
 
   # Begin construction of chart
   theme_bw(base_size= base_size * 9) +
